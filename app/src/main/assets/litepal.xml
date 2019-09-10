@@ -1,0 +1,16 @@
+<litepal>
+    
+    <dbname value="coolweather" />
+    
+    <version value="3" />
+    
+    <list>
+        <mapping class="com.sunyardraofa.coolweather.db.Province" />
+        <mapping class="com.sunyardraofa.coolweather.db.City" />
+        <mapping class="com.sunyardraofa.coolweather.db.Couty" />
+        <mapping class="com.sunyardraofa.coolweather.db.LocalCity"/>
+        <mapping class="com.sunyardraofa.coolweather.db.LocalCouty"/>
+    </list>
+    
+    
+</litepal>
